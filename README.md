@@ -3,11 +3,11 @@
 # Reading List
 Subject to change
 
--   **May 13th**
+-   **May 13th** Done
 
     M. Srivatsa, L. Xiong, L. Liu. TrustGuard: Countering Vulnerabilities in Reputation Management for Decentralized Networks. In 14th World Wide Web Conference (WWW), May, 2005.
     
--   **May 14th**
+-   **May 14th** Done
 
     L. Xiong, L. Liu. A Reputation-Based Trust Model for Peer-to-Peer eCommerce Communities. In IEEE Conference on Electronic Commerce (CEC), June, 2003
     
