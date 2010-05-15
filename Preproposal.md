@@ -11,12 +11,21 @@ To solve the problems described I propose a system called UserTrust. UserTrust i
 
 ## References
 [1] Ahn, L., Blum, M., Hopper, N., and Langford, J. 2003. CAPTCHA: Using Hard AI Problems for Security. In Proceedings of the International Conference on the Theory and Applications of Cryptographic Techniques, Warsaw, Poland, May 2003. Springer Berlin / Heidelberg, 2003.
+
 [2] Yan, J. and El Ahmad, A. S. 2008. Usability of CAPTCHAs or usability issues in CAPTCHA design. In Proceedings of the 4th Symposium on Usable Privacy and Security (Pittsburgh, Pennsylvania, July 23 - 25, 2008). SOUPS '08, vol. 337. ACM, New York, NY, 44-52. DOI= http://doi.acm.org/10.1145/1408664.1408671
+
 [3] Ben-Asher, N., Meyer, J., Moller, S., and Englert, R. 2009. An Experimental System for Studying the Tradeoff  between Usability and Security. In Proceedings of the International Conference on Availability, Reliability, and Security, Fukuoka, Japan, March 2009. International Conference on Availability, Reliability, and Security, 2009.
+
 [4] Malik, Z. and Bouguettaya, A. 2009. RATEWeb: Reputation Assessment for Trust Establishment among Web services. The VLDB Journal 18, 4 (Aug. 2009), 885-911. DOI= http://dx.doi.org/10.1007/s00778-009-0138-1
+
 [5] Tennenholtz, M. 2004. Reputation systems: an axiomatic approach. In Proceedings of the 20th Conference on Uncertainty in Artificial intelligence (Banff, Canada, July 07 - 11, 2004). ACM International Conference Proceeding Series, vol. 70. AUAI Press, Arlington, Virginia, 544-551.
+
 [6] Delgado, J., Ishii, N.: Memory-based weighted-majority prediction for recommender systems. In: ACM SIGIR '99 Workshop on Recommender Systems: Algorithms and Evaluation (1999).
+
 [7] Huynh, T. D., Jennings, N. R., and Shadbolt, N. R. 2006. Certified reputation: how an agent can trust a stranger. InProceedings of the Fifth international Joint Conference on Autonomous Agents and Multiagent Systems (Hakodate, Japan, May 08 - 12, 2006). AAMAS '06. ACM, New York, NY, 1217-1224. DOI= http://doi.acm.org/10.1145/1160633.1160854
+
 [8] Park, S., Liu, L., Pu, C., Srivatsa, M., and Zhang, J. 2005. Resilient Trust Management for Web Service Integration. InProceedings of the IEEE international Conference on Web Services (July 11 - 15, 2005). ICWS. IEEE Computer Society, Washington, DC, 499-506. DOI= http://dx.doi.org/10.1109/ICWS.2005.99
+
 [9] Sonnek, J. D. and Weissman, J. B. 2005. A Quantitative Comparison of Reputation Systems in the Grid. In Proceedings of the 6th IEEE/ACM international Workshop on Grid Computing (November 13 - 14, 2005). International Conference on Grid Computing. IEEE Computer Society, Washington, DC, 242-249. DOI= http://dx.doi.org/10.1109/GRID.2005.1542748
+
 [10] 2004. PeerTrust: Supporting Reputation-Based Trust for Peer-to-Peer Electronic Communities. IEEE Trans. on Knowl. and Data Eng. 16, 7 (Jul. 2004), 843-857. DOI= http://dx.doi.org/10.1109/TKDE.2004.1318566
