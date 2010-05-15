@@ -1,6 +1,6 @@
 # UserTrust
 
-# Reading List
+## Reading List
 Subject to change
 
 -   **May 13th** *Done*
@@ -23,7 +23,7 @@ Subject to change
 
     M. Shepherd, A. Dhonde, and C. Watters. **Building trust for e-commerce: Collaborating label bureaus.** In Second International Symposium on Electronic Commerce, ISEC 2001, 2001.
 
-# Development Schedule
+## Development Schedule
 
 -   **May 22nd**
 
@@ -39,5 +39,4 @@ Subject to change
     
 -   **May 25th-28th**
 
-    Investigate how to verify that the registerer of a site is the owner of that site.
-    
+    Investigate how to verify that the registerer of a site is the owner of that site.    
