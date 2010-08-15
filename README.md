@@ -13,6 +13,12 @@ To solve the problems described, I propose a system called UserTrust. UserTrust 
 
 ## Overview
 
+### Referral Systems
+
+### Reputation Systems
+
+### Collaborative Filtering
+
 ## Functional Specification
 
 ## Design Specification
