@@ -21,5 +21,7 @@
 3. TODO: Anything else?
 
 ## Functional Specification
+1. Talk about the simplistic design and why it isn't sufficient.
+
 
 ## Design Specification
