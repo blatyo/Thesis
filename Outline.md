@@ -3,10 +3,10 @@
 ## Introduction
 1. Describe how the goal of websites is to increase usage.
 2. Describe how trying this goal can lead to different approaches to fighting against each other.
-  * Usability
-    * Systems that are easy to use will be used more frequently.
-  * Security
-    * CAPTCHA prevents spammy messages and content.
+    * Usability
+        * Systems that are easy to use will be used more frequently.
+    * Security
+        * CAPTCHA prevents spammy messages and content.
 3. Describe the necessity for these features to exist.
 4. Describe how a compromise is necessary.
 5. Describe the paper layout and how it will address the compromise.
