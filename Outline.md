@@ -2,7 +2,7 @@
 
 ## Introduction
 1. Describe what a CAPTCHA is.
-2. Describe the problems with CAPTCHAs.
+2. Describe evolution of CAPTCHAs
 2. Describe how trying this goal can lead to different approaches to fighting against each other.
     * Usability
         * Systems that are easy to use will be used more frequently.
@@ -21,9 +21,9 @@
         * It is possible to increase usability and maintain security while decreasing the occurrence of CAPTCHAs with the use of feedback filtering and clustering.
 7. Describe the paper layout and how it will address the compromise.
 
-## Background
-1. Describe CAPTCHAs.
-    * Common type.
+## Related Works
+1. Describe CAPTCHAs in more depth.
+    * Types
     * Smarter AI causing common type to be more complicated to solve.
     * Usability of CAPTCHAs being addressed in other ways. (Video CAPTCHA, Drag-and-drop tests)
 2. Describe work done in reputation systems, referral systems, and collaborative filtering/sanctioning.
