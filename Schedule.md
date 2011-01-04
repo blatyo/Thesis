@@ -44,9 +44,9 @@
         * Percent of time able to answer correctly
         * Time between CAPTCHAs
         * Number of sites used
-    * _Mon, Feb 7_Create population profiles
+    * _Mon, Feb 7_ Create population profiles
         * Distribution of user profiles
-    * _Tue, Feb 8_Create runner that goes through cycles of adding users, sites, and testing users
+    * _Tue, Feb 8_ Create runner that goes through cycles of adding users, sites, and testing users
     * _Tue, Feb 8 - Web, Feb 9_ Track performance of user profiles
         * Number of times could have been shown a CAPTCHA
         * Number of times shown a CAPTCHA
