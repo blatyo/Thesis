@@ -39,7 +39,7 @@
 * API _Fri, Feb 4_ (1 day)
     * _Fri, Feb 4_ --> Request user TrustScore    <-- Respond with TrustScore
     * _Fri, Feb 4_ --> Request if CAPTCHA correct <-- Respond with correctness (Simulated)
-* Simulation
+* Simulation _Fri, Feb 4 - Wed, Feb 9_ (4 days)
     * _Fri, Feb 4 - Mon, Feb 7_ TueCreate user profiles (Grandpa, Strategic user)
         * Percent of time able to answer correctly
         * Time between CAPTCHAs
