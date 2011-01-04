@@ -1,4 +1,4 @@
-# Schedule
+# Schedule _Mon, Jan 3 - Mon, Feb 21_ (36 days)
 
 ## Proposal _Mon, Jan 3 - Fri, Jan 21_ (15 days)
 
@@ -53,7 +53,7 @@
         * Number of times CAPTCHA passed
     * _Wed, Feb 9_ Run simulation
 
-## Final Thesis
+## Final Thesis _Thu, Feb 10 - Mon, Feb 21_ (8 days)
 
 * Revisions _Thu, Feb 10 - Mon, Feb 14_ (3 days)
 * Results _Tue, Feb 15 - Thu, Feb 17_ (3 days)
