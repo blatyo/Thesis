@@ -2,11 +2,11 @@
 
 ## Proposal _Mon, Jan 3 - Fri, Jan 21_ (15 days)
 
-* Introduction _Mon, Jan 3 - Wed, Jan 5_ (3 days)
+* Introduction _Mon, Jan 3 - Thu, Jan 6_ (5 days)
     * _Mon, Jan 3_ Find news on CAPTCHAs being broken
     * _Mon, Jan 3_ Find papers on CAPTCHAs (increasing difficulty, increasing usability)
     * _Mon, Jan 3_ Collect papers research is based on
-    * _Tue, Jan 4 - Wed, Jan 5_ Write
+    * _Tue, Jan 4 - Thu, Jan 6_ Write
 * Related Works _Wed, Jan 5 - Tue, Jan 11_ (5 days)
     * Find papers on:
         * _Mon, Jan 3_ different types of CAPTCHAs,
@@ -14,7 +14,7 @@
         * _Done_ reputation,
         * _Thu, Jan 6_ clustering,
         * _Wed, Jan 5_ similarity measures,
-        * _Wed, Jan 5_ filtering feedback,
+        * _Wed, Jan 5_ oscillation gaurd,
         * _Done_ attacks
     * _Fri, Jan 7_ Collect papers for reputation, clustering, filtering feedback, attacks
     * _Fri, Jan 7 - Tue, Jan 11_ Write
