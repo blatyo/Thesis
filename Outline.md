@@ -32,7 +32,7 @@
     * Clustering/Top N Items
         * Similarity Measures
     * Attacks on these types of systems
-3. Methods for filtering feedback.
+3. Methods for protecting against strategic oscillation.
 
 ## Functional Specification
 1. Talk about registering users
